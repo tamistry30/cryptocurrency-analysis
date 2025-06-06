@@ -7,7 +7,7 @@ An end-to-end exploratory and statistical analysis of top cryptocurrencies inclu
 
 ---
 
-## 📌 Project Summary
+##  Project Summary
 
 - Performed comparative analysis of daily price and volume data from 2013–2021
 - Calculated market volatility using standard deviation of daily returns
@@ -17,7 +17,7 @@ An end-to-end exploratory and statistical analysis of top cryptocurrencies inclu
 
 ---
 
-## 🛠️ Tools & Libraries
+##  Tools & Libraries
 
 - **Python 3**, **Pandas**, **Matplotlib**, **Seaborn**
 - **scikit-learn** (KMeans)
